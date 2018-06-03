@@ -1,6 +1,6 @@
 # React Native Express 中文手冊
 
-<div style="text-align:right;">文件最近更新時間； 2018/05/25</div>
+<div style="text-align:right;">文件最近更新時間； 2018/06/04</div>
 
 ?> 文件尚在翻譯當中，預計會在 2018 年 7 月翻譯完畢。
 
